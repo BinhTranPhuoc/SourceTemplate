@@ -1,0 +1,14 @@
+E:\WORK\ST.Entity\bin\Debug\netcoreapp3.1\ST.Entity.deps.json
+E:\WORK\ST.Entity\bin\Debug\netcoreapp3.1\ST.Entity.dll
+E:\WORK\ST.Entity\obj\Debug\netcoreapp3.1\ST.Entity.csprojAssemblyReference.cache
+E:\WORK\ST.Entity\obj\Debug\netcoreapp3.1\ST.Entity.AssemblyInfoInputs.cache
+E:\WORK\ST.Entity\obj\Debug\netcoreapp3.1\ST.Entity.AssemblyInfo.cs
+E:\WORK\sourceCodeCore\ST.Entity\bin\Debug\netcoreapp3.1\ST.Entity.deps.json
+E:\WORK\sourceCodeCore\ST.Entity\bin\Debug\netcoreapp3.1\ST.Entity.dll
+E:\WORK\sourceCodeCore\ST.Entity\bin\Debug\netcoreapp3.1\ST.Entity.pdb
+E:\WORK\sourceCodeCore\ST.Entity\obj\Debug\netcoreapp3.1\ST.Entity.csprojAssemblyReference.cache
+E:\WORK\sourceCodeCore\ST.Entity\obj\Debug\netcoreapp3.1\ST.Entity.AssemblyInfoInputs.cache
+E:\WORK\sourceCodeCore\ST.Entity\obj\Debug\netcoreapp3.1\ST.Entity.AssemblyInfo.cs
+E:\WORK\sourceCodeCore\ST.Entity\obj\Debug\netcoreapp3.1\ST.Entity.csproj.CoreCompileInputs.cache
+E:\WORK\sourceCodeCore\ST.Entity\obj\Debug\netcoreapp3.1\ST.Entity.dll
+E:\WORK\sourceCodeCore\ST.Entity\obj\Debug\netcoreapp3.1\ST.Entity.pdb

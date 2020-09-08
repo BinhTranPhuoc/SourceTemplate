@@ -1,0 +1,8 @@
+E:\WORK\sourceCodeCore\ST.ViewModels\bin\Debug\netcoreapp3.1\ST.ViewModels.deps.json
+E:\WORK\sourceCodeCore\ST.ViewModels\bin\Debug\netcoreapp3.1\ST.ViewModels.dll
+E:\WORK\sourceCodeCore\ST.ViewModels\bin\Debug\netcoreapp3.1\ST.ViewModels.pdb
+E:\WORK\sourceCodeCore\ST.ViewModels\obj\Debug\netcoreapp3.1\ST.ViewModels.AssemblyInfoInputs.cache
+E:\WORK\sourceCodeCore\ST.ViewModels\obj\Debug\netcoreapp3.1\ST.ViewModels.AssemblyInfo.cs
+E:\WORK\sourceCodeCore\ST.ViewModels\obj\Debug\netcoreapp3.1\ST.ViewModels.csproj.CoreCompileInputs.cache
+E:\WORK\sourceCodeCore\ST.ViewModels\obj\Debug\netcoreapp3.1\ST.ViewModels.dll
+E:\WORK\sourceCodeCore\ST.ViewModels\obj\Debug\netcoreapp3.1\ST.ViewModels.pdb

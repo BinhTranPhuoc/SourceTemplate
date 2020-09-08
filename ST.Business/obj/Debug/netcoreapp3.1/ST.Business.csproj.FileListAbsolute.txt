@@ -1,0 +1,8 @@
+E:\WORK\sourceCodeCore\ST.Business\bin\Debug\netcoreapp3.1\ST.Business.deps.json
+E:\WORK\sourceCodeCore\ST.Business\bin\Debug\netcoreapp3.1\ST.Business.dll
+E:\WORK\sourceCodeCore\ST.Business\bin\Debug\netcoreapp3.1\ST.Business.pdb
+E:\WORK\sourceCodeCore\ST.Business\obj\Debug\netcoreapp3.1\ST.Business.AssemblyInfoInputs.cache
+E:\WORK\sourceCodeCore\ST.Business\obj\Debug\netcoreapp3.1\ST.Business.AssemblyInfo.cs
+E:\WORK\sourceCodeCore\ST.Business\obj\Debug\netcoreapp3.1\ST.Business.csproj.CoreCompileInputs.cache
+E:\WORK\sourceCodeCore\ST.Business\obj\Debug\netcoreapp3.1\ST.Business.dll
+E:\WORK\sourceCodeCore\ST.Business\obj\Debug\netcoreapp3.1\ST.Business.pdb
