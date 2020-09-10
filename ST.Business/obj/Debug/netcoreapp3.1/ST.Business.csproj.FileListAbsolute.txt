@@ -6,3 +6,17 @@ E:\WORK\sourceCodeCore\ST.Business\obj\Debug\netcoreapp3.1\ST.Business.AssemblyI
 E:\WORK\sourceCodeCore\ST.Business\obj\Debug\netcoreapp3.1\ST.Business.csproj.CoreCompileInputs.cache
 E:\WORK\sourceCodeCore\ST.Business\obj\Debug\netcoreapp3.1\ST.Business.dll
 E:\WORK\sourceCodeCore\ST.Business\obj\Debug\netcoreapp3.1\ST.Business.pdb
+E:\source template\ST.Business\bin\Debug\netcoreapp3.1\ST.Business.deps.json
+E:\source template\ST.Business\bin\Debug\netcoreapp3.1\ST.Business.dll
+E:\source template\ST.Business\bin\Debug\netcoreapp3.1\ST.Business.pdb
+E:\source template\ST.Business\bin\Debug\netcoreapp3.1\ST.Entity.dll
+E:\source template\ST.Business\bin\Debug\netcoreapp3.1\ST.Utility.dll
+E:\source template\ST.Business\bin\Debug\netcoreapp3.1\ST.Entity.pdb
+E:\source template\ST.Business\bin\Debug\netcoreapp3.1\ST.Utility.pdb
+E:\source template\ST.Business\obj\Debug\netcoreapp3.1\ST.Business.csprojAssemblyReference.cache
+E:\source template\ST.Business\obj\Debug\netcoreapp3.1\ST.Business.AssemblyInfoInputs.cache
+E:\source template\ST.Business\obj\Debug\netcoreapp3.1\ST.Business.AssemblyInfo.cs
+E:\source template\ST.Business\obj\Debug\netcoreapp3.1\ST.Business.csproj.CoreCompileInputs.cache
+E:\source template\ST.Business\obj\Debug\netcoreapp3.1\ST.Business.csproj.CopyComplete
+E:\source template\ST.Business\obj\Debug\netcoreapp3.1\ST.Business.dll
+E:\source template\ST.Business\obj\Debug\netcoreapp3.1\ST.Business.pdb

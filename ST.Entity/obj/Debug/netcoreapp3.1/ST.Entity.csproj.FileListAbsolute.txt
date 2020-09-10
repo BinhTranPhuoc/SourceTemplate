@@ -12,3 +12,12 @@ E:\WORK\sourceCodeCore\ST.Entity\obj\Debug\netcoreapp3.1\ST.Entity.AssemblyInfo.
 E:\WORK\sourceCodeCore\ST.Entity\obj\Debug\netcoreapp3.1\ST.Entity.csproj.CoreCompileInputs.cache
 E:\WORK\sourceCodeCore\ST.Entity\obj\Debug\netcoreapp3.1\ST.Entity.dll
 E:\WORK\sourceCodeCore\ST.Entity\obj\Debug\netcoreapp3.1\ST.Entity.pdb
+E:\source template\ST.Entity\bin\Debug\netcoreapp3.1\ST.Entity.deps.json
+E:\source template\ST.Entity\bin\Debug\netcoreapp3.1\ST.Entity.dll
+E:\source template\ST.Entity\bin\Debug\netcoreapp3.1\ST.Entity.pdb
+E:\source template\ST.Entity\obj\Debug\netcoreapp3.1\ST.Entity.csprojAssemblyReference.cache
+E:\source template\ST.Entity\obj\Debug\netcoreapp3.1\ST.Entity.AssemblyInfoInputs.cache
+E:\source template\ST.Entity\obj\Debug\netcoreapp3.1\ST.Entity.AssemblyInfo.cs
+E:\source template\ST.Entity\obj\Debug\netcoreapp3.1\ST.Entity.csproj.CoreCompileInputs.cache
+E:\source template\ST.Entity\obj\Debug\netcoreapp3.1\ST.Entity.dll
+E:\source template\ST.Entity\obj\Debug\netcoreapp3.1\ST.Entity.pdb

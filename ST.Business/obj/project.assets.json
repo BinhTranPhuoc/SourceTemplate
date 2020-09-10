@@ -357,6 +357,16 @@
         "runtime": {
           "bin/placeholder/ST.Entity.dll": {}
         }
+      },
+      "ST.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ST.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ST.Utility.dll": {}
+        }
       }
     }
   },
@@ -1028,31 +1038,37 @@
       "type": "project",
       "path": "../ST.Entity/ST.Entity.csproj",
       "msbuildProject": "../ST.Entity/ST.Entity.csproj"
+    },
+    "ST.Utility/1.0.0": {
+      "type": "project",
+      "path": "../ST.Utility/ST.Utility.csproj",
+      "msbuildProject": "../ST.Utility/ST.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "ST.Entity >= 1.0.0"
+      "ST.Entity >= 1.0.0",
+      "ST.Utility >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\OS\\.nuget\\packages\\": {},
+    "C:\\Users\\binht\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WORK\\sourceCodeCore\\ST.Business\\ST.Business.csproj",
+      "projectUniqueName": "E:\\source template\\ST.Business\\ST.Business.csproj",
       "projectName": "ST.Business",
-      "projectPath": "E:\\WORK\\sourceCodeCore\\ST.Business\\ST.Business.csproj",
-      "packagesPath": "C:\\Users\\OS\\.nuget\\packages\\",
-      "outputPath": "E:\\WORK\\sourceCodeCore\\ST.Business\\obj\\",
+      "projectPath": "E:\\source template\\ST.Business\\ST.Business.csproj",
+      "packagesPath": "C:\\Users\\binht\\.nuget\\packages\\",
+      "outputPath": "E:\\source template\\ST.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\OS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\binht\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1065,8 +1081,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\WORK\\sourceCodeCore\\ST.Entity\\ST.Entity.csproj": {
-              "projectPath": "E:\\WORK\\sourceCodeCore\\ST.Entity\\ST.Entity.csproj"
+            "E:\\source template\\ST.Entity\\ST.Entity.csproj": {
+              "projectPath": "E:\\source template\\ST.Entity\\ST.Entity.csproj"
+            },
+            "E:\\source template\\ST.Utility\\ST.Utility.csproj": {
+              "projectPath": "E:\\source template\\ST.Utility\\ST.Utility.csproj"
             }
           }
         }
@@ -1094,7 +1113,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

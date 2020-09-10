@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5S34wehvMQpS/HHnemcVTuu523hzOax4H1WkDVWfl2M5X2eG8I5EzlUC8l8yFmMF3R9pDcehIXxo8TwS+HJJBg==",
+  "dgSpecHash": "sM3g743YT6mvYigvmW93/EthuBydFW5bvvkBFiL7lPlSRuqW5H51fS4S9p24NmLV1i9Kv0PhEtl4OWcsZHqmMQ==",
   "success": true,
-  "projectFilePath": "E:\\WORK\\sourceCodeCore\\ST.ViewModels\\ST.ViewModels.csproj",
+  "projectFilePath": "E:\\source template\\ST.ViewModels\\ST.ViewModels.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

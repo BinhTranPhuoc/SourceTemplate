@@ -7,3 +7,12 @@ E:\WORK\sourceCodeCore\ST.Utility\obj\Debug\netcoreapp3.1\ST.Utility.AssemblyInf
 E:\WORK\sourceCodeCore\ST.Utility\obj\Debug\netcoreapp3.1\ST.Utility.csproj.CoreCompileInputs.cache
 E:\WORK\sourceCodeCore\ST.Utility\obj\Debug\netcoreapp3.1\ST.Utility.dll
 E:\WORK\sourceCodeCore\ST.Utility\obj\Debug\netcoreapp3.1\ST.Utility.pdb
+E:\source template\ST.Utility\bin\Debug\netcoreapp3.1\ST.Utility.deps.json
+E:\source template\ST.Utility\bin\Debug\netcoreapp3.1\ST.Utility.dll
+E:\source template\ST.Utility\bin\Debug\netcoreapp3.1\ST.Utility.pdb
+E:\source template\ST.Utility\obj\Debug\netcoreapp3.1\ST.Utility.csprojAssemblyReference.cache
+E:\source template\ST.Utility\obj\Debug\netcoreapp3.1\ST.Utility.AssemblyInfoInputs.cache
+E:\source template\ST.Utility\obj\Debug\netcoreapp3.1\ST.Utility.AssemblyInfo.cs
+E:\source template\ST.Utility\obj\Debug\netcoreapp3.1\ST.Utility.csproj.CoreCompileInputs.cache
+E:\source template\ST.Utility\obj\Debug\netcoreapp3.1\ST.Utility.dll
+E:\source template\ST.Utility\obj\Debug\netcoreapp3.1\ST.Utility.pdb
